@@ -1,6 +1,6 @@
 {
   "name": "@wadewegner/mocli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A CLI to help build APIs",
   "main": "index.js",
   "repository": {
