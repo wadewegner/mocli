@@ -1,0 +1,15 @@
+{
+  "name": "@wadewegner/mocli",
+  "version": "0.0.1",
+  "description": "A CLI to help build APIs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/wadewegner/mocli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
