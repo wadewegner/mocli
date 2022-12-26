@@ -1,6 +1,6 @@
 {
-  "name": "mocli",
-  "version": "0.0.4",
+  "name": "@wadewegner/mocli",
+  "version": "0.0.5",
   "description": "A CLI for building APIs",
   "author": "Wade Wegner @wadewegner",
   "bin": {
